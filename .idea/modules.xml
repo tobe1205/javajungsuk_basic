@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/javajungsuk.iml" filepath="$PROJECT_DIR$/.idea/javajungsuk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javajungsuk_basic/javajungsuk_basic.iml" filepath="$PROJECT_DIR$/javajungsuk_basic/javajungsuk_basic.iml" />
+    </modules>
+  </component>
+</project>
