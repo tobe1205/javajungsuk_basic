@@ -15,8 +15,8 @@ public class MyParentTest2 {
     public static void main(String[] args) {
         MyParent p = new MyParent();
 //        System.out.println(p.prv);//에러
-//        System.out.println(p.dft);//애러
-//        System.out.println(p.prt);//애러
+//        System.out.println(p.dft);//에러
+//        System.out.println(p.prt);//에러
         System.out.println(p.pub); //public이기때문에 가능
     }
 }
