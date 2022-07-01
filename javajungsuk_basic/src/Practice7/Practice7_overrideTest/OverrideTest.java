@@ -38,5 +38,6 @@ public class OverrideTest {
 //        p.y = 5;
 //        System.out.println(p.getLocation());
 //        System.out.println(p); //(println(p.toString())과 같다.
+
     }
 }
