@@ -29,6 +29,7 @@ class MyPoint3D extends MyPoint3 {
 }
 */
 
+
 public class OverrideTest {
     public static void main(String[] args) {
 //        MyPoint3D p = new MyPoint3D();
