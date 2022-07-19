@@ -11,6 +11,7 @@ public class Ex7_10 {
     }
 }
 
+
 abstract class Unit {
     int x, y; //좌표
     abstract void move(int x, int y);
