@@ -31,6 +31,7 @@ public class Ex7_7 {
         FireEngine fe = new FireEngine(); //실제 인스턴스가 무엇인지가 중요.
         FireEngine fe2 = null;
 
+
 //
 //        fe.water();
 //        car = fe;
