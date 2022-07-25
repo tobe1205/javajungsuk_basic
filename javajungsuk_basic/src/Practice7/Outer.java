@@ -2,7 +2,7 @@ package Practice7;
 
 public class Outer {
     private int outerIv = 0;
-    static int outerCv = 0;
+    private  static int outerCv = 0;
 
     class InstanceInner {
         int iiv = outerIv; //외부 클래스의 private멤버도 접근가능
@@ -26,5 +26,5 @@ public class Outer {
             int liv4 = LV; //OK
         }
     }
-    
+
 }
